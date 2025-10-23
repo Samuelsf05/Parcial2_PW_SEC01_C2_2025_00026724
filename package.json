@@ -1,0 +1,27 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00026724",
+  "version": "1.0.0",
+  "description": "Samuel Francisco Amaya Sánchez, 00026724\r Seccion 01",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuelsf05/Parcial2_PW_SEC01_C2_2025_00026724.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "bugs": {
+    "url": "https://github.com/Samuelsf05/Parcial2_PW_SEC01_C2_2025_00026724/issues"
+  },
+  "homepage": "https://github.com/Samuelsf05/Parcial2_PW_SEC01_C2_2025_00026724#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

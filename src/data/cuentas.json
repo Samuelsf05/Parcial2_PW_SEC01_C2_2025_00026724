@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "a77d7s87yd87sd8sd89s98",
+    "isActive": true,
+    "picture": "http://file.consumerfinance.gov/f/images/protected-money_1140x642_ai_fw_io.original.png",
+    "balance": "$25223",
+    "client": "Katia Woodard",
+    "gender": "female"
+  },
+  {
+    "_id": "c92f8d73a1b9f8c6d9e0f42",
+    "isActive": false,
+    "picture": "https://cdn-icons-png.flaticon.com/512/5087/5087579.png",
+    "balance": "$1020",
+    "client": "Carlos Mendoza",
+    "gender": "male"
+  },
+  {
+    "_id": "d02f91a8b7a61a5d6c91e30",
+    "isActive": true,
+    "picture": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+    "balance": "$8765",
+    "client": "Ana López",
+    "gender": "female"
+  },
+  {
+    "_id": "e1b2c3d4e5f60718293a4b5",
+    "isActive": true,
+    "picture": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "balance": "$3500",
+    "client": "Luis García",
+    "gender": "male"
+  },
+  {
+    "_id": "f10a2b3c4d5e6f708192a3b",
+    "isActive": false,
+    "picture": "https://cdn-icons-png.flaticon.com/512/4140/4140048.png",
+    "balance": "$0",
+    "client": "María Pérez",
+    "gender": "female"
+  },
+  {
+    "_id": "b13c24d35e46f57a689b7c8",
+    "isActive": true,
+    "picture": "https://cdn-icons-png.flaticon.com/512/1999/1999625.png",
+    "balance": "$12400",
+    "client": "Jorge Fernández",
+    "gender": "male"
+  },
+  {
+    "_id": "g72h83i94j05k16l27m38n4",
+    "isActive": true,
+    "picture": "https://cdn-icons-png.flaticon.com/512/921/921071.png",
+    "balance": "$540",
+    "client": "Sofía Ramírez",
+    "gender": "female"
+  },
+  {
+    "_id": "o9p8q7r6s5t4u3v2w1x0y9z",
+    "isActive": true,
+    "picture": "https://cdn-icons-png.flaticon.com/512/2922/2922510.png",
+    "balance": "$1590",
+    "client": "Valeria Torres",
+    "gender": "female"
+  },
+  {
+    "_id": "z8y7x6w5v4u3t2s1r0q9p8o",
+    "isActive": false,
+    "picture": "https://cdn-icons-png.flaticon.com/512/219/219970.png",
+    "balance": "$400",
+    "client": "Diego Ruiz",
+    "gender": "male"
+  },
+  {
+    "_id": "n1m2b3v4c5x6z7l8k9j0h8g",
+    "isActive": true,
+    "picture": "https://cdn-icons-png.flaticon.com/512/3006/3006876.png",
+    "balance": "$21000",
+    "client": "Paola Cabrera",
+    "gender": "female"
+  }
+]
